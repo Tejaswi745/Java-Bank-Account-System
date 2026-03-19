@@ -1,30 +1,21 @@
-# Java Bank Account System 🏦
+# Bank Management System (Java)
 
-A simple console-based **Bank Account System** built in Java.  
-Supports multiple accounts, PIN security, deposit, withdraw, balance check, and money transfer.
+## 📌 Description
+This is a simple Bank Management System built using Java. It allows users to perform basic banking operations through a console-based menu.
 
----
+## ⚙️ Features
+- Create Account
+- Deposit Money
+- Withdraw Money
+- Check Balance
 
-## Features ✅
+## 🛠️ Technologies Used
+- Java
+- OOP Concepts
 
-- Create multiple bank accounts with unique account numbers  
-- Set a 4-digit PIN for account security  
-- Deposit and withdraw money  
-- Check current account balance  
-- Display full account information  
-- Transfer money between accounts  
-- Console-based menu system for easy navigation  
+## ▶️ How to Run
+1. Compile: javac BankSystem.java
+2. Run: java BankSystem
 
----
-
-## Tech Stack 🛠️
-
-- **Language:** Java  
-- **OOP Concepts:** Classes, Objects, Methods  
-- **Data Structures:** ArrayList  
-- **Input Handling:** Scanner  
-
----
-1. Clone the repository:
-```bash
-git clone https://github.com/Tejaswi745/Java-Bank-Account-System.git
+## 👨‍💻 Author
+Tejaswi
