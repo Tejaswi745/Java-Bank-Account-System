@@ -14,8 +14,8 @@ This is a simple Bank Management System built using Java. It allows users to per
 - OOP Concepts
 
 ## ▶️ How to Run
-1. Compile: javac BankSystem.java
-2. Run: java BankSystem
+javac BankSystem.java
+java BankSystem
 
 ## 👨‍💻 Author
 Tejaswi
